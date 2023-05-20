@@ -18,8 +18,8 @@
 			For 6, 7 & 8-figure businesses who want to grow their online influence
 		</p>
 		<h1 class="text-center">
-			Want to dominate <b class="font-bold">page #1 of Google</b> with <br />
-			<b class="font-bold">high-quality press</b> about you <br />
+			Want to dominate <b class="font-extrabold">page #1 of Google</b> with <br />
+			<b class="font-extrabold">high-quality press</b> about you <br />
 			and your business in 6 weeks?
 		</h1>
 		<p class="text-2xl text-center">
@@ -132,7 +132,7 @@
 	</div>
 
 	<div class="sect-6 grid gap-y-8">
-		<img src={Testim} alt="Daily mail" class="w-auto h-full mx-auto" />
+		<img src={Testim} alt="Daily mail" class="w-[60%] h-full mx-auto" />
 		<a href="/" class="book-call">BOOK 7MIN INTRO CALL</a>
 	</div>
 </div>
