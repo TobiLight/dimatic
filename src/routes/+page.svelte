@@ -96,7 +96,7 @@
 			</p>
 			<p>Let me explain...</p>
 			<p>
-				My goal is to become the /1 PR agency in the entire globe for business owners that relay on
+				My goal is to become the #1 PR agency in the entire globe for business owners that relay on
 				the internet to make money.
 			</p>
 			<p>
