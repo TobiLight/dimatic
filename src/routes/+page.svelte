@@ -132,7 +132,7 @@
 	</div>
 
 	<div class="sect-6 grid gap-y-8">
-		<img src={Testim} alt="Daily mail" class="w-[60%] h-full mx-auto" />
+		<img src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684613694/digitimatic/testim_js42bq.gif" alt="Daily mail" class="w-[60%] h-full mx-auto" />
 		<a href="/" class="book-call">BOOK 7MIN INTRO CALL</a>
 	</div>
 </div>
