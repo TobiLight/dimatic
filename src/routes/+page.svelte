@@ -1,9 +1,4 @@
-<script>
-	import Tesimonial from '../lib/components/Tesimonial.svelte';
-	import Image1 from '$lib/images/1/ScreenShot1.png';
-	import Image2 from '$lib/images/1/ScreenShot2.png';
-	import Image3 from '$lib/images/1/ScreenShot3.png';
-	import Image4 from '$lib/images/1/ScreenShot4.png';
+<script lang="ts">
 	import Image5 from '$lib/images/1/ScreenShot5.png';
 	import Image6 from '$lib/images/1/ScreenShot6.png';
 	import Image7 from '$lib/images/1/ScreenShot7.png';
@@ -72,12 +67,14 @@
 	</div>
 
 	<div class="sect-3 grid sm:grid-cols-2 items-center gap-x-10 gap-y-20 mt-20">
-		<div class="flex h-[300px] relative">
-			<img src={Image1} alt="Blog 1" class="w-auto h-auto mx-auto object-cover" />
-		</div>
-		<img src={Image2} alt="Blog 1" class="w-[70%] md:w-auto h-full mx-auto" />
-		<img src={Image3} alt="Blog 1" class="w-[70%] md:w-auto h-full mx-auto" />
-		<img src={Image4} alt="Blog 1" class="w-[70%] md:w-auto h-full mx-auto" />
+		<img
+			src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611863/digitimatic/ScreenShot1_ue38xu.png"
+			alt="Blog 1"
+			class="w-auto h-auto mx-auto object-cover"
+		/>
+		<img src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611863/digitimatic/ScreenShot2_eb0cvn.png" alt="Blog 1" class="w-[70%] md:w-auto h-full mx-auto" />
+		<img src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611863/digitimatic/ScreenShot7_nhvy4n.png" alt="Blog 1" class="w-[70%] md:w-auto h-full mx-auto" />
+		<img src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611864/digitimatic/ScreenShot4_paajfk.png" alt="Blog 1" class="w-[70%] md:w-auto h-full mx-auto" />
 		<img src={Image5} alt="Blog 1" class="w-[70%] md:w-auto h-full mx-auto" />
 		<img src={Image6} alt="Blog 1" class="w-[70%] md:w-auto h-full mx-auto" />
 		<img src={Image7} alt="Blog 1" class="w-[70%] md:w-auto h-full mx-auto" />
