@@ -1,13 +1,17 @@
 <script>
 	import Tesimonial from '../lib/components/Tesimonial.svelte';
-	import Hof1 from '$lib/images/hof/hof1.webp';
-	import Hof2 from '$lib/images/hof/hof2.webp';
-	import Hof3 from '$lib/images/hof/hof3.jpg';
-	import Hof4 from '$lib/images/hof/hof4.jpg';
-	import Hof5 from '$lib/images/hof/hof5.webp';
-	import Hof6 from '$lib/images/hof/hof6.jpg';
-	import Hof7 from '$lib/images/hof/hof7.webp';
-	import Hof8 from '$lib/images/hof/hof8.webp';
+	import Image1 from '$lib/images/1/ScreenShot1.png';
+	import Image2 from '$lib/images/1/ScreenShot2.png';
+	import Image3 from '$lib/images/1/ScreenShot3.png';
+	import Image4 from '$lib/images/1/ScreenShot4.png';
+	import Image5 from '$lib/images/1/ScreenShot5.png';
+	import Image6 from '$lib/images/1/ScreenShot6.png';
+	import Image7 from '$lib/images/1/ScreenShot7.png';
+	import Image8 from '$lib/images/1/ScreenShot8.png';
+	import Image9 from '$lib/images/1/ScreenShot9.png';
+	import Image10 from '$lib/images/1/ScreenShot10.png';
+	import Image11 from '$lib/images/1/ScreenShot11.png';
+	import Image12 from '$lib/images/1/ScreenShot12.png';
 	import Dailymail from '$lib/images/dailymail.gif';
 	import Testim from '$lib/images/testim.gif';
 </script>
@@ -30,7 +34,7 @@
 	<div class="grid gap-y-8">
 		<div class="sect-2 flex items-center justify-center mt-12">
 			<video class="bg-gray-600" width="auto" controls>
-				poster="https://upload.wikimedia.org/wikipedia/commons/e/e8/Elephants_Dream_s5_both.jpg">
+				poster="https://upload.wikimedia.org/wikipedia/commons/e/e8/Elephants_Dream_s5_both.png">
 				<source src="https://archive.org/download/ElephantsDream/ed_hd.avi" type="video/avi" />
 				<track kind="captions" src="" srclang="en" label="English" />
 				Your browser does not support the video tag.
@@ -40,8 +44,6 @@
 	</div>
 
 	<h1 class="py-10 text-center">Some of our <b>past clients...</b></h1>
-
-	<Tesimonial />
 
 	<div class="offer grid gap-y-8 mx-auto">
 		<h1 class="text-center pt-14">This offer is <b>not for you if...</b></h1>
@@ -71,14 +73,18 @@
 	</div>
 
 	<div class="sect-3 grid sm:grid-cols-2 items-center gap-x-10 gap-y-20 mt-20">
-		<img src={Hof1} alt="Blog 1" class="w-[70%] h-full mx-auto" />
-		<img src={Hof2} alt="Blog 1" class="w-[70%] h-full mx-auto" />
-		<img src={Hof3} alt="Blog 1" class="w-[70%] h-full mx-auto" />
-		<img src={Hof4} alt="Blog 1" class="w-[70%] h-full mx-auto" />
-		<img src={Hof5} alt="Blog 1" class="w-[70%] h-full mx-auto" />
-		<img src={Hof6} alt="Blog 1" class="w-[70%] h-full mx-auto" />
-		<img src={Hof7} alt="Blog 1" class="w-[70%] h-full mx-auto" />
-		<img src={Hof8} alt="Blog 1" class="w-[70%] h-full mx-auto" />
+		<img src={Image1} alt="Blog 1" class="w-[70%] h-full mx-auto" />
+		<img src={Image2} alt="Blog 1" class="w-[70%] h-full mx-auto" />
+		<img src={Image3} alt="Blog 1" class="w-[70%] h-full mx-auto" />
+		<img src={Image4} alt="Blog 1" class="w-[70%] h-full mx-auto" />
+		<img src={Image5} alt="Blog 1" class="w-[70%] h-full mx-auto" />
+		<img src={Image6} alt="Blog 1" class="w-[70%] h-full mx-auto" />
+		<img src={Image7} alt="Blog 1" class="w-[70%] h-full mx-auto" />
+		<img src={Image8} alt="Blog 1" class="w-[70%] h-full mx-auto" />
+		<img src={Image9} alt="Blog 1" class="w-[70%] h-full mx-auto" />
+		<img src={Image10} alt="Blog 1" class="w-[70%] h-full mx-auto" />
+		<img src={Image11} alt="Blog 1" class="w-[70%] h-full mx-auto" />
+		<img src={Image12} alt="Blog 1" class="w-[70%] h-full mx-auto" />
 	</div>
 
 	<div class="sect-4 py-14 grid gap-y-10">
