@@ -72,7 +72,9 @@
 	</div>
 
 	<div class="sect-3 grid sm:grid-cols-2 items-center gap-x-10 gap-y-20 mt-20">
-		<img src={Image1} alt="Blog 1" class="w-[70%] md:w-auto h-full mx-auto" />
+		<div class="flex h-[300px] relative">
+			<img src={Image1} alt="Blog 1" class="w-full h-full mx-auto object-cover" />
+		</div>
 		<img src={Image2} alt="Blog 1" class="w-[70%] md:w-auto h-full mx-auto" />
 		<img src={Image3} alt="Blog 1" class="w-[70%] md:w-auto h-full mx-auto" />
 		<img src={Image4} alt="Blog 1" class="w-[70%] md:w-auto h-full mx-auto" />
