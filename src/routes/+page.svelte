@@ -132,7 +132,7 @@
 	</div>
 
 	<div class="sect-6 grid gap-y-8">
-		<img src={Testim} alt="Daily mail" class="w-[80%] sm:w-[60%] h-full mx-auto" />
+		<img src={Testim} alt="Daily mail" class="w-auto h-full mx-auto" />
 		<a href="/" class="book-call">BOOK 7MIN INTRO CALL</a>
 	</div>
 </div>
@@ -142,7 +142,7 @@
 		font-weight: 400;
 		line-height: 115%;
 		font-size: 32px;
-		color: rgb(0, 154, 255);
+		color: #005598;
 	}
 
 	p {
