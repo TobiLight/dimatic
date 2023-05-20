@@ -1,5 +1,5 @@
 <script lang="ts">
-	import Image1 from '$lib/images/1/ScreenShot1.png';
+	import Image1 from '$lib/images/1/ScreenShot1.webp';
 	import Image5 from '$lib/images/1/ScreenShot5.png';
 	import Image6 from '$lib/images/1/ScreenShot6.png';
 	import Image7 from '$lib/images/1/ScreenShot7.png';
