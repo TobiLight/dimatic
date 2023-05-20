@@ -68,11 +68,7 @@
 	</div>
 
 	<div class="sect-3 grid sm:grid-cols-2 items-center gap-x-10 gap-y-20 mt-20">
-		<img
-			src={Image1}
-			alt="Image 1"
-			class="w-auto h-auto mx-auto"
-		/>
+		<img width="auto" height="auto" src={Image1} alt="Image 1" class="w-auto h-auto mx-auto" />
 		<!-- <img src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611863/digitimatic/ScreenShot2_eb0cvn.png" alt="Blog 1" class="w-[70%] md:w-auto h-full mx-auto" />
 		<img src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611863/digitimatic/ScreenShot7_nhvy4n.png" alt="Blog 1" class="w-[70%] md:w-auto h-full mx-auto" />
 		<img src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611864/digitimatic/ScreenShot4_paajfk.png" alt="Blog 1" class="w-[70%] md:w-auto h-full mx-auto" /> -->
@@ -132,7 +128,11 @@
 	</div>
 
 	<div class="sect-6 grid gap-y-8">
-		<img src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684613694/digitimatic/testim_js42bq.gif" alt="Daily mail" class="w-[60%] h-full mx-auto" />
+		<img
+			src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684613694/digitimatic/testim_js42bq.gif"
+			alt="Daily mail"
+			class="w-[60%] h-full mx-auto"
+		/>
 		<a href="/" class="book-call">BOOK 7MIN INTRO CALL</a>
 	</div>
 </div>
