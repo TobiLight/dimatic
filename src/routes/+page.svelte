@@ -34,7 +34,6 @@
 	<div class="grid gap-y-8">
 		<div class="sect-2 flex items-center justify-center mt-12">
 			<video class="bg-gray-600" width="auto" controls>
-				poster="https://upload.wikimedia.org/wikipedia/commons/e/e8/Elephants_Dream_s5_both.png">
 				<source src="https://archive.org/download/ElephantsDream/ed_hd.avi" type="video/avi" />
 				<track kind="captions" src="" srclang="en" label="English" />
 				Your browser does not support the video tag.
