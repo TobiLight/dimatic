@@ -153,7 +153,7 @@
 	}
 
 	.sect-2 {
-		background-image: url($lib/images/hero-bg.webp);
+		/* background-image: url($lib/images/hero-bg.webp); */
 		background-position: top;
 		min-height: 450px;
 		width: 100%;
