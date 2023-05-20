@@ -68,21 +68,21 @@
 
 	<div class="sect-3 grid sm:grid-cols-2 items-center gap-x-10 gap-y-20 mt-20">
 		<img
-			src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684612660/digitimatic/ScreenShot1_zw1r3d.png"
+			src={"https://res.cloudinary.com/ddt59lbmx/image/upload/v1684612660/digitimatic/ScreenShot1_zw1r3d.png"}
 			alt="Image 1"
 			class="w-auto h-auto mx-auto object-cover"
 		/>
 		<img src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611863/digitimatic/ScreenShot2_eb0cvn.png" alt="Blog 1" class="w-[70%] md:w-auto h-full mx-auto" />
 		<img src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611863/digitimatic/ScreenShot7_nhvy4n.png" alt="Blog 1" class="w-[70%] md:w-auto h-full mx-auto" />
 		<img src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611864/digitimatic/ScreenShot4_paajfk.png" alt="Blog 1" class="w-[70%] md:w-auto h-full mx-auto" />
-		<img src={Image5} alt="Blog 1" class="w-[70%] md:w-auto h-full mx-auto" />
+		<!-- <img src={Image5} alt="Blog 1" class="w-[70%] md:w-auto h-full mx-auto" />
 		<img src={Image6} alt="Blog 1" class="w-[70%] md:w-auto h-full mx-auto" />
 		<img src={Image7} alt="Blog 1" class="w-[70%] md:w-auto h-full mx-auto" />
 		<img src={Image8} alt="Blog 1" class="w-[70%] md:w-auto h-full mx-auto" />
 		<img src={Image9} alt="Blog 1" class="w-[70%] md:w-auto h-full mx-auto" />
 		<img src={Image10} alt="Blog 1" class="w-[70%] md:w-auto h-full mx-auto" />
 		<img src={Image11} alt="Blog 1" class="w-[70%] md:w-auto h-full mx-auto" />
-		<img src={Image12} alt="Blog 1" class="w-[70%] md:w-auto h-full mx-auto" />
+		<img src={Image12} alt="Blog 1" class="w-[70%] md:w-auto h-full mx-auto" /> -->
 	</div>
 
 	<div class="sect-4 py-14 grid gap-y-10">
