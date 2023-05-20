@@ -18,7 +18,7 @@
 			For 6, 7 & 8-figure businesses who want to grow their online influence
 		</p>
 		<h1 class="text-center">
-			Want to dominate <b class="font-bold">page /1 of Google</b> with <br />
+			Want to dominate <b class="font-bold">page #1 of Google</b> with <br />
 			<b class="font-bold">high-quality press</b> about you <br />
 			and your business in 6 weeks?
 		</h1>
