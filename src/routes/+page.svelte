@@ -137,7 +137,7 @@
 		font-weight: 400;
 		line-height: 115%;
 		font-size: 32px;
-		color: ;
+		color: #005598;
 	}
 
 	p {
