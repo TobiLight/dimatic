@@ -2,6 +2,10 @@
   import "../app.css";
 </script>
 
+<svelte:head>
+  <title>Digitimatic</title>
+</svelte:head>
+
 <main class="min-h-screen py-8 px-4 md:w-2/3 md:mx-auto">
     <slot />
 </main>
