@@ -68,8 +68,8 @@
 
 	<div class="sect-3 grid sm:grid-cols-2 items-center gap-x-10 gap-y-20 mt-20">
 		<img
-			src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611863/digitimatic/ScreenShot1_ue38xu.png"
-			alt="Blog 1"
+			src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684612660/digitimatic/ScreenShot1_zw1r3d.png"
+			alt="Image 1"
 			class="w-auto h-auto mx-auto object-cover"
 		/>
 		<img src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611863/digitimatic/ScreenShot2_eb0cvn.png" alt="Blog 1" class="w-[70%] md:w-auto h-full mx-auto" />
