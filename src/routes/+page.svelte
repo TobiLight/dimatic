@@ -1,4 +1,5 @@
 <script lang="ts">
+	import Image1 from '$lib/images/1/ScreenShot1.png';
 	import Image5 from '$lib/images/1/ScreenShot5.png';
 	import Image6 from '$lib/images/1/ScreenShot6.png';
 	import Image7 from '$lib/images/1/ScreenShot7.png';
@@ -68,7 +69,7 @@
 
 	<div class="sect-3 grid sm:grid-cols-2 items-center gap-x-10 gap-y-20 mt-20">
 		<img
-			src={"https://res.cloudinary.com/ddt59lbmx/image/upload/v1684612660/digitimatic/ScreenShot1_zw1r3d.png"}
+			src={Image1}
 			alt="Image 1"
 			class="w-auto h-auto mx-auto object-cover"
 		/>
