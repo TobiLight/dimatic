@@ -71,11 +71,11 @@
 		<img
 			src={Image1}
 			alt="Image 1"
-			class="w-auto h-auto mx-auto object-cover"
+			class="w-[80%] h-auto mx-auto"
 		/>
-		<img src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611863/digitimatic/ScreenShot2_eb0cvn.png" alt="Blog 1" class="w-[70%] md:w-auto h-full mx-auto" />
+		<!-- <img src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611863/digitimatic/ScreenShot2_eb0cvn.png" alt="Blog 1" class="w-[70%] md:w-auto h-full mx-auto" />
 		<img src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611863/digitimatic/ScreenShot7_nhvy4n.png" alt="Blog 1" class="w-[70%] md:w-auto h-full mx-auto" />
-		<img src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611864/digitimatic/ScreenShot4_paajfk.png" alt="Blog 1" class="w-[70%] md:w-auto h-full mx-auto" />
+		<img src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611864/digitimatic/ScreenShot4_paajfk.png" alt="Blog 1" class="w-[70%] md:w-auto h-full mx-auto" /> -->
 		<!-- <img src={Image5} alt="Blog 1" class="w-[70%] md:w-auto h-full mx-auto" />
 		<img src={Image6} alt="Blog 1" class="w-[70%] md:w-auto h-full mx-auto" />
 		<img src={Image7} alt="Blog 1" class="w-[70%] md:w-auto h-full mx-auto" />
