@@ -29,7 +29,7 @@
 
 	<div class="grid gap-y-8">
 		<div class="sect-2 flex items-center justify-center mt-12">
-			<video width="auto" controls>
+			<video class="bg-gray-600" width="auto" controls>
 				poster="https://upload.wikimedia.org/wikipedia/commons/e/e8/Elephants_Dream_s5_both.jpg">
 				<source src="https://archive.org/download/ElephantsDream/ed_hd.ogv" type="video/ogg" />
 				<source src="https://archive.org/download/ElephantsDream/ed_hd.avi" type="video/avi" />
