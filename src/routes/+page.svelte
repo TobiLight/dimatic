@@ -142,7 +142,7 @@
 		font-weight: 400;
 		line-height: 115%;
 		font-size: 32px;
-		color: #005598;
+		color: ;
 	}
 
 	p {
@@ -170,7 +170,7 @@
 		border-style: none;
 		padding: 30px 80px;
 		box-shadow: 0px 0px 10px 1px rgb(103, 103, 103);
-		background: rgb(0, 154, 255);
+		background: #005598;
 		color: white;
 		border-color: rgb(106, 89, 89);
 		border-width: 0.5px;
@@ -198,7 +198,7 @@
 	}
 
 	li > b {
-		color: rgb(0, 154, 255);
+		color: #005598;
 	}
 
 	.sect-3 > img {
