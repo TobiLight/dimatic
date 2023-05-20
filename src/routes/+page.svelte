@@ -76,14 +76,14 @@
 	</div>
 
 	<div class="sect-3 grid sm:grid-cols-2 items-center gap-x-10 gap-y-20 mt-20">
-		<img src={Hof1} alt="Blog 1" class="w-auto h-full mx-auto" />
-		<img src={Hof2} alt="Blog 1" class="w-auto h-full mx-auto" />
-		<img src={Hof3} alt="Blog 1" class="w-auto h-full mx-auto" />
-		<img src={Hof4} alt="Blog 1" class="w-auto h-full mx-auto" />
-		<img src={Hof5} alt="Blog 1" class="w-auto h-full mx-auto" />
-		<img src={Hof6} alt="Blog 1" class="w-auto h-full mx-auto" />
-		<img src={Hof7} alt="Blog 1" class="w-auto h-full mx-auto" />
-		<img src={Hof8} alt="Blog 1" class="w-auto h-full mx-auto" />
+		<img src={Hof1} alt="Blog 1" class="w-[70%] h-full mx-auto" />
+		<img src={Hof2} alt="Blog 1" class="w-[70%] h-full mx-auto" />
+		<img src={Hof3} alt="Blog 1" class="w-[70%] h-full mx-auto" />
+		<img src={Hof4} alt="Blog 1" class="w-[70%] h-full mx-auto" />
+		<img src={Hof5} alt="Blog 1" class="w-[70%] h-full mx-auto" />
+		<img src={Hof6} alt="Blog 1" class="w-[70%] h-full mx-auto" />
+		<img src={Hof7} alt="Blog 1" class="w-[70%] h-full mx-auto" />
+		<img src={Hof8} alt="Blog 1" class="w-[70%] h-full mx-auto" />
 	</div>
 
 	<div class="sect-4 py-14 grid gap-y-10">
