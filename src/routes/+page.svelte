@@ -132,7 +132,7 @@
 	</div>
 </div>
 
-<style lang="postcss">
+<style global lang="postcss">
 	h1 {
 		font-weight: 400;
 		line-height: 115%;
