@@ -150,6 +150,11 @@
 	</div>
 
 	<div class="sect-6 grid gap-y-8 mt-14">
+		<video width="400" height="400" autoplay loop muted playsinline class="mx-auto">
+			<source src={Testimw} type="video/webm" />
+			<source src={Testimm} type="video/mp4" />
+			Your browser does not support the video tag.
+		</video>
 		<a href="/" class="book-call">BOOK 7MIN INTRO CALL</a>
 	</div>
 </div>
