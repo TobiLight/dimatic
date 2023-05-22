@@ -9,7 +9,6 @@
 	import Image11 from '$lib/images/1/ScreenShot11.png';
 	import Image12 from '$lib/images/1/ScreenShot12.png';
 	import Dailymail from '$lib/images/dailymail.gif';
-	import Testim from '$lib/images/testim.gif';
 </script>
 
 <div class="pt-8">
