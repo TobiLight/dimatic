@@ -65,44 +65,36 @@
 	</div>
 
 	<div class="sect-3 grid sm:grid-cols-2 items-center gap-x-10 gap-y-20 mt-20">
-		<img width="400" height="400" src={Image1} alt="Image 1" class="w-auto mx-auto" />
+		<img width="auto" height="auto" src={Image1} alt="Image 1" class="w-auto mx-auto" />
 		<img
 			width="400"
 			height="400"
 			src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611863/digitimatic/ScreenShot2_eb0cvn.png"
 			alt="Image 2"
-			class="w-auto h-full mx-auto"
+			class="w-auto h-auto mx-auto"
 		/>
 		<img
 			width="400"
 			height="400"
 			src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611863/digitimatic/ScreenShot7_nhvy4n.png"
 			alt="Image 3"
-			class="w-auto h-full mx-auto"
+			class="w-auto h-auto mx-auto"
 		/>
 		<img
 			width="400"
 			height="400"
 			src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611864/digitimatic/ScreenShot4_paajfk.png"
 			alt="Image 4"
-			class="w-auto h-full mx-auto"
+			class="w-auto h-auto mx-auto"
 		/>
-		<img width="400"
-			height="400" src={Image5} alt="Image 5" class="w-auto h-full mx-auto" />
-		<img width="400"
-			height="400" src={Image6} alt="Image 6" class="w-auto h-full mx-auto" />
-		<img width="400"
-			height="400" src={Image7} alt="Image 7" class="w-auto h-full mx-auto" />
-		<img width="400"
-			height="400" src={Image8} alt="Image 8" class="w-auto h-full mx-auto" />
-		<img width="400"
-			height="400" src={Image9} alt="Image 9" class="w-auto h-full mx-auto" />
-		<img width="400"
-			height="400" src={Image10} alt="Image 10" class="w-auto h-full mx-auto" />
-		<img width="400"
-			height="400" src={Image11} alt="Image 11" class="w-auto h-full mx-auto" />
-		<img width="400"
-			height="400" src={Image12} alt="Image 12" class="w-auto h-full mx-auto" />
+		<img width="auto" height="auto" src={Image5} alt="Image 5" class="w-auto h-auto mx-auto" />
+		<img width="auto" height="auto" src={Image6} alt="Image 6" class="w-auto h-auto mx-auto" />
+		<img width="auto" height="auto" src={Image7} alt="Image 7" class="w-auto h-auto mx-auto" />
+		<img width="auto" height="auto" src={Image8} alt="Image 8" class="w-auto h-auto mx-auto" />
+		<img width="auto" height="auto" src={Image9} alt="Image 9" class="w-auto h-auto mx-auto" />
+		<img width="auto" height="auto" src={Image10} alt="Image 10" class="w-auto h-auto mx-auto" />
+		<img width="auto" height="auto" src={Image11} alt="Image 11" class="w-auto h-auto mx-auto" />
+		<img width="auto" height="auto" src={Image12} alt="Image 12" class="w-auto h-auto mx-auto" />
 	</div>
 
 	<div class="sect-4 py-14 grid gap-y-10">
