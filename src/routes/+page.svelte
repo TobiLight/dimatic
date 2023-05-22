@@ -8,7 +8,8 @@
 	import Image10 from '$lib/images/1/ScreenShot10.png';
 	import Image11 from '$lib/images/1/ScreenShot11.png';
 	import Image12 from '$lib/images/1/ScreenShot12.png';
-	import Dailymail from '$lib/images/dailymail.gif';
+	import Dailymailw from '$lib/images/dailymail.webm';
+	import Dailymailm from '$lib/images/dailymail.mp4';
 </script>
 
 <div class="pt-8">
@@ -28,11 +29,11 @@
 
 	<div class="grid gap-y-8">
 		<div class="sect-2 flex items-center justify-center mt-12">
-			<video class="bg-gray-600" width="auto" controls>
+			<!-- <video class="bg-gray-600" width="auto" controls>
 				<source src="https://archive.org/download/ElephantsDream/ed_hd.avi" type="video/avi" />
 				<track kind="captions" src="" srclang="en" label="English" />
 				Your browser does not support the video tag.
-			</video>
+			</video> -->
 		</div>
 		<a href="/" class="book-call">BOOK 7MIN INTRO CALL</a>
 	</div>
@@ -117,12 +118,11 @@
 			<p>It's not how I operate or run my business.</p>
 			<p>100% of my business is based on results, and results only.</p>
 		</div>
-		<img src={Dailymail} alt="Daily mail" class="w-[80%] sm:w-[60%] h-full mx-auto" />
-		<video class="bg-gray-600" width="auto" controls>
-				<source src={Dailymail} type="video/avi" />
-				<track kind="captions" src="" srclang="en" label="English" />
-				Your browser does not support the video tag.
-			</video>
+		<video width="400" height="400" autoplay loop muted playsinline class="mx-auto">
+			<source src={Dailymailw} type="video/webm" />
+			<source src={Dailymailm} type="video/mp4" />
+			Your browser does not support the video tag.
+		</video>
 	</div>
 
 	<div class="sect-5 grid gap-y-10">
@@ -175,8 +175,6 @@
 
 	video {
 		max-width: 600px;
-		width: 100%;
-		height: auto;
 	}
 
 	.book-call {
