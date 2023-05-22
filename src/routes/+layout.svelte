@@ -19,8 +19,10 @@ meta description. This will often show up in search results.">
     font-family: "Open Sans Variable", sans-serif;
   }
   
+  
   main {
     font-family: 'Inter Variable', sans-serif;
+    font-display: swap;
   }
 
 </style>
