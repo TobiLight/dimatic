@@ -70,21 +70,21 @@
 			width="400"
 			height="400"
 			src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611863/digitimatic/ScreenShot2_eb0cvn.png"
-			alt="Blog 1"
+			alt="Image 2"
 			class="w-auto h-full mx-auto"
 		/>
 		<img
 			width="400"
 			height="400"
 			src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611863/digitimatic/ScreenShot7_nhvy4n.png"
-			alt="Blog 1"
+			alt="Image 3"
 			class="w-auto h-full mx-auto"
 		/>
 		<img
 			width="400"
 			height="400"
 			src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611864/digitimatic/ScreenShot4_paajfk.png"
-			alt="Blog 1"
+			alt="Image 4"
 			class="w-auto h-full mx-auto"
 		/>
 		<img width="400"
