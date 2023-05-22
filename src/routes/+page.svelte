@@ -118,6 +118,11 @@
 			<p>100% of my business is based on results, and results only.</p>
 		</div>
 		<img src={Dailymail} alt="Daily mail" class="w-[80%] sm:w-[60%] h-full mx-auto" />
+		<video class="bg-gray-600" width="auto" controls>
+				<source src={Dailymail} type="video/avi" />
+				<track kind="captions" src="" srclang="en" label="English" />
+				Your browser does not support the video tag.
+			</video>
 	</div>
 
 	<div class="sect-5 grid gap-y-10">
