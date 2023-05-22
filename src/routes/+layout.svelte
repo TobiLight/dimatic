@@ -1,5 +1,7 @@
 <script lang="ts">
   import "../app.css";
+  import "@fontsource-variable/inter";
+
 </script>
 
 <svelte:head>
@@ -13,10 +15,12 @@ meta description. This will often show up in search results.">
 </main>
 
 <style lang="postcss">
-  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
-
+  :global(body) {
+    font-family: "Open Sans Variable", sans-serif;
+  }
+  
   main {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Inter Variable', sans-serif;
   }
 
 </style>
