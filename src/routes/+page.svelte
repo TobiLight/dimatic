@@ -8,8 +8,8 @@
 	import Image10 from '$lib/images/1/ScreenShot10.png';
 	import Image11 from '$lib/images/1/ScreenShot11.png';
 	import Image12 from '$lib/images/1/ScreenShot12.png';
-	import Dailymailw from '$lib/images/dailymail.webm';
-	import Dailymailm from '$lib/images/dailymail.mp4';
+	import Dailymailw from '$lib/images/DailyMailw.webm';
+	import Dailymailm from '$lib/images/DailyMailm.mp4';
 </script>
 
 <div class="pt-8">
