@@ -38,8 +38,6 @@
 		<a href="/" class="book-call">BOOK 7MIN INTRO CALL</a>
 	</div>
 
-	<h1 class="py-10 text-center">Some of our <b>past clients...</b></h1>
-
 	<div class="offer grid gap-y-8 mx-auto">
 		<h1 class="text-center pt-14">This offer is <b>not for you if...</b></h1>
 		<ul class="list-disc mx-auto w-[70%]">
@@ -127,7 +125,7 @@
 		</ul>
 	</div>
 
-	<div class="sect-6 grid gap-y-8">
+	<div class="sect-6 grid gap-y-8 mt-14">
 		<a href="/" class="book-call">BOOK 7MIN INTRO CALL</a>
 	</div>
 </div>
