@@ -47,7 +47,7 @@
 
 		<h1 class="text-center">Who is this <b>offer for?</b></h1>
 
-		<ul class="list-disc mx-auto w-[70%] grid gap-y-4">
+		<ul class="list-disc mx-auto w-auto grid gap-y-4">
 			<li>
 				If you want influence, authority, and make more money in your industry, this offer is for
 				you.
@@ -66,17 +66,17 @@
 
 	<div class="sect-3 grid sm:grid-cols-2 items-center gap-x-10 gap-y-20 mt-20">
 		<img width="400" height="400" src={Image1} alt="Image 1" class="w-auto mx-auto" />
-		<img width="400" height="400" src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611863/digitimatic/ScreenShot2_eb0cvn.png" alt="Blog 1" class="w-[70%] h-full mx-auto" />
-		<img width="400" height="400" src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611863/digitimatic/ScreenShot7_nhvy4n.png" alt="Blog 1" class="w-[70%] h-full mx-auto" />
-		<img width="400" height="400" src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611864/digitimatic/ScreenShot4_paajfk.png" alt="Blog 1" class="w-[70%] h-full mx-auto" />
-		<img src={Image5} alt="Image 5" class="w-[70%] h-full mx-auto" />
-		<img src={Image6} alt="Image 6" class="w-[70%] h-full mx-auto" />
-		<img src={Image7} alt="Image 7" class="w-[70%] h-full mx-auto" />
-		<img src={Image8} alt="Image 8" class="w-[70%] h-full mx-auto" />
-		<img src={Image9} alt="Image 9" class="w-[70%] h-full mx-auto" />
-		<img src={Image10} alt="Image 10" class="w-[70%] h-full mx-auto" />
-		<img src={Image11} alt="Image 11" class="w-[70%] h-full mx-auto" />
-		<img  src={Image12} alt="Image 12" class="w-[70%] h-full mx-auto" />
+		<img width="400" height="400" src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611863/digitimatic/ScreenShot2_eb0cvn.png" alt="Blog 1" class="w-auto h-full mx-auto" />
+		<img width="400" height="400" src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611863/digitimatic/ScreenShot7_nhvy4n.png" alt="Blog 1" class="w-auto h-full mx-auto" />
+		<img width="400" height="400" src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611864/digitimatic/ScreenShot4_paajfk.png" alt="Blog 1" class="w-auto h-full mx-auto" />
+		<img src={Image5} alt="Image 5" class="w-auto h-full mx-auto" />
+		<img src={Image6} alt="Image 6" class="w-auto h-full mx-auto" />
+		<img src={Image7} alt="Image 7" class="w-auto h-full mx-auto" />
+		<img src={Image8} alt="Image 8" class="w-auto h-full mx-auto" />
+		<img src={Image9} alt="Image 9" class="w-auto h-full mx-auto" />
+		<img src={Image10} alt="Image 10" class="w-auto h-full mx-auto" />
+		<img src={Image11} alt="Image 11" class="w-auto h-full mx-auto" />
+		<img  src={Image12} alt="Image 12" class="w-auto h-full mx-auto" />
 	</div>
 
 	<div class="sect-4 py-14 grid gap-y-10">
@@ -104,7 +104,7 @@
 
 	<div class="sect-5 grid gap-y-10">
 		<h1 class="text-center">What are some of <b>the benefits?</b></h1>
-		<ul class="list-disc mx-auto w-[70%] grid gap-y-4">
+		<ul class="list-disc mx-auto w-auto grid gap-y-4">
 			<li>
 				<b>Gain instant trust & credibility:</b> Turn 10s of thousands of cold leads into hot ones by
 				leveraging the established trust of other major media companies.
