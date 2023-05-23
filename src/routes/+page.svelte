@@ -19,7 +19,7 @@
 
 	<div class="offer grid gap-y-8 mx-auto">
 		<h1 class="text-center pt-14">This offer is <b>not for you if...</b></h1>
-		<ul class="list-disc mx-auto w-[70%]">
+		<ul class="list-disc px-8">
 			<li>You don't run your own business</li>
 			<li>You're making less than 6-figures a year ‍</li>
 			<li>You're happy being a ghost on the internet</li>
@@ -27,7 +27,7 @@
 
 		<h1 class="text-center">Who is this <b>offer for?</b></h1>
 
-		<ul class="list-disc mx-auto w-auto grid gap-y-4">
+		<ul class="list-disc px-8 w-auto grid gap-y-4">
 			<li>
 				If you want influence, authority, and make more money in your industry, this offer is for
 				you.
@@ -97,7 +97,7 @@
 			<p>It's not how I operate or run my business.</p>
 			<p>100% of my business is based on results, and results only.</p>
 		</div>
-		<video width="100%" height="400" autoplay loop muted playsinline class="mx-auto md:w-[60%]">
+		<video width="100%" height="400" autoplay loop muted playsinline class="mx-auto lg:w-[60%]">
 			<source src="https://res.cloudinary.com/ddt59lbmx/video/upload/v1684802045/DailyMail_djxilj.webm" type="video/webm" />
 			<source src="https://res.cloudinary.com/ddt59lbmx/video/upload/v1684802045/DailyMail_kgzaow.mp4" type="video/mp4" />
 			Your browser does not support the video tag.
@@ -217,8 +217,13 @@
 			background-position: center;
 			/* background-size: cover; */
 		}
+
 		video {
 			max-width: 400px;
+		}
+
+		ul > li {
+			font-size: 22px;
 		}
 
 		.book-call {
