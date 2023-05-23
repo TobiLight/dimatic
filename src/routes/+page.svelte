@@ -61,7 +61,7 @@
 	</div>
 
 	<div class="sect-3 grid sm:grid-cols-2 items-center gap-x-10 gap-y-20 mt-20">
-		<img width="100%" height="100%" src={Image1} alt="Digitimatic 1" class="w-auto mx-auto" />
+		<img width="100%" height="100%" src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684612660/digitimatic/ScreenShot1_zw1r3d.png" alt="Digitimatic 1" class="w-auto mx-auto" />
 		<img
 			width="100%"
 			height="100%"
@@ -83,14 +83,14 @@
 			alt="Digitimatic 4"
 			class="w-auto h-auto mx-auto"
 		/>
-		<img width="100%" height="100%" src={Image5} alt="Digitimatic 5" class="w-auto h-auto mx-auto" />
-		<img width="100%" height="100%" src={Image6} alt="Digitimatic 6" class="w-auto h-auto mx-auto" />
-		<img width="100%" height="100%" src={Image7} alt="Digitimatic 7" class="w-auto h-auto mx-auto" />
-		<img width="100%" height="100%" src={Image8} alt="Digitimatic 8" class="w-auto h-auto mx-auto" />
-		<img width="100%" height="100%" src={Image9} alt="Digitimatic 9" class="w-auto h-auto mx-auto" />
-		<img width="100%" height="100%" src={Image10} alt="Digitimatic 10" class="w-auto h-auto mx-auto" />
-		<img width="100%" height="100%" src={Image11} alt="Digitimatic 11" class="w-auto h-auto mx-auto" />
-		<img width="100%" height="100%" src={Image12} alt="Digitimatic 12" class="w-auto h-auto mx-auto" />
+		<img width="100%" height="100%" src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611867/digitimatic/ScreenShot5_bxs6fv.png" alt="Digitimatic 5" class="w-auto h-auto mx-auto" />
+		<img width="100%" height="100%" src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611863/digitimatic/ScreenShot6_jllvvb.png" alt="Digitimatic 6" class="w-auto h-auto mx-auto" />
+		<img width="100%" height="100%" src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611863/digitimatic/ScreenShot7_nhvy4n.png" alt="Digitimatic 7" class="w-auto h-auto mx-auto" />
+		<img width="100%" height="100%" src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611866/digitimatic/ScreenShot8_ihlvsb.png" alt="Digitimatic 8" class="w-auto h-auto mx-auto" />
+		<img width="100%" height="100%" src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611865/digitimatic/ScreenShot9_nuq4dh.png" alt="Digitimatic 9" class="w-auto h-auto mx-auto" />
+		<img width="100%" height="100%" src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611871/digitimatic/ScreenShot10_hsrbui.png" alt="Digitimatic 10" class="w-auto h-auto mx-auto" />
+		<img width="100%" height="100%" src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611866/digitimatic/ScreenShot11_fprb5x.png" alt="Digitimatic 11" class="w-auto h-auto mx-auto" />
+		<img width="100%" height="100%" src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611866/digitimatic/ScreenShot12_kaimpb.png" alt="Digitimatic 12" class="w-auto h-auto mx-auto" />
 	</div>
 
 	<div class="sect-4 py-14 grid gap-y-10">
