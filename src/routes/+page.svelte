@@ -204,7 +204,6 @@
 
 	.sect-4 {
 		margin: 0 auto;
-		width: 70%;
 		width: 100%;
 	}
 
