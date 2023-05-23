@@ -106,7 +106,7 @@
 
 	<div class="sect-5 grid gap-y-10">
 		<h1 class="text-center">What are some of <b>the benefits?</b></h1>
-		<ul class="list-disc mx-auto w-auto grid gap-y-4">
+		<ul class="list-disc px-8 md:px-0 w-auto grid gap-y-4">
 			<li>
 				<b>Gain instant trust & credibility:</b> Turn 10s of thousands of cold leads into hot ones by
 				leveraging the established trust of other major media companies.
