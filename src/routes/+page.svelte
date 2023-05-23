@@ -63,22 +63,22 @@
 	<div class="sect-3 grid sm:grid-cols-2 items-center gap-x-10 gap-y-20 mt-20">
 		<img width="100%" height="100%" src={Image1} alt="Digitimatic 1" class="w-auto mx-auto" />
 		<img
-			width="100%"
-			height="100%"
+			width="500"
+			height="500"
 			src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611863/digitimatic/ScreenShot2_eb0cvn.png"
 			alt="Digitimatic 2"
 			class="w-auto h-auto mx-auto"
 		/>
 		<img
-			width="100%"
-			height="100%"
+			width="500"
+			height="500"
 			src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611863/digitimatic/ScreenShot7_nhvy4n.png"
 			alt="Digitimatic 3"
 			class="w-auto h-auto mx-auto"
 		/>
 		<img
-			width="100%"
-			height="100%"
+			width="500"
+			height="500"
 			src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611864/digitimatic/ScreenShot4_paajfk.png"
 			alt="Digitimatic 4"
 			class="w-auto h-auto mx-auto"
