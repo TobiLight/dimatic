@@ -150,11 +150,6 @@
 		color: rgba(0, 0, 0, 0.75);
 	}
 
-	.sect-2 {
-		min-height: 450px;
-		width: 100%;
-	}
-
 	video {
 		max-width: 600px;
 	}
@@ -210,10 +205,6 @@
 	}
 
 	@media screen and (max-width: 640px) {
-		.sect-2 {
-			min-height: 300px;
-		}
-
 		video {
 			max-width: 400px;
 		}
