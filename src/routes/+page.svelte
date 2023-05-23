@@ -19,7 +19,7 @@
 
 	<div class="offer grid gap-y-8 mx-auto">
 		<h1 class="text-center pt-14">This offer is <b>not for you if...</b></h1>
-		<ul class="list-disc px-8">
+		<ul class="list-disc px-8 md:mx-auto md:px-0">
 			<li>You don't run your own business</li>
 			<li>You're making less than 6-figures a year ‍</li>
 			<li>You're happy being a ghost on the internet</li>
@@ -27,7 +27,7 @@
 
 		<h1 class="text-center">Who is this <b>offer for?</b></h1>
 
-		<ul class="list-disc px-8 w-auto grid gap-y-4">
+		<ul class="list-disc px-8 md:px-0 w-auto grid gap-y-4">
 			<li>
 				If you want influence, authority, and make more money in your industry, this offer is for
 				you.
