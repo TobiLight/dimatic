@@ -1,6 +1,3 @@
-<svelte:head>
-	<title>Digitimatic - Media Placement</title>
-</svelte:head>
 <div class="pt-8">
 	<div class="sect-1 grid gap-y-8">
 		<p class="text-2xl text-center font-semibold">
