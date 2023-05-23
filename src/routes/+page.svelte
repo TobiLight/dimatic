@@ -97,7 +97,7 @@
 			<p>It's not how I operate or run my business.</p>
 			<p>100% of my business is based on results, and results only.</p>
 		</div>
-		<video width="100%" height="400" autoplay loop muted playsinline class="mx-auto">
+		<video width="100%" height="400" autoplay loop muted playsinline class="mx-auto md:w-[60%]">
 			<source src="https://res.cloudinary.com/ddt59lbmx/video/upload/v1684802045/DailyMail_djxilj.webm" type="video/webm" />
 			<source src="https://res.cloudinary.com/ddt59lbmx/video/upload/v1684802045/DailyMail_kgzaow.mp4" type="video/mp4" />
 			Your browser does not support the video tag.
