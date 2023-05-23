@@ -5,9 +5,8 @@
 </script>
 
 <svelte:head>
-  <title>Digitimatic</title>
-  <meta name="description" content="This is an example of a
-meta description. This will often show up in search results.">
+  <title>Digitimatic | Media Placement</title>
+  <meta name="description" content="Digitimatic is part of the 1% of PR agencies that can guarantee results.">
 </svelte:head>
 
 <main class="min-h-screen py-8 px-4 md:w-2/3 md:mx-auto">
@@ -16,7 +15,7 @@ meta description. This will often show up in search results.">
 
 <style lang="postcss">
   :global(body) {
-    font-family: "Open Sans Variable", sans-serif;
+    font-family: "Inter Variable", sans-serif;
   }
   
   
