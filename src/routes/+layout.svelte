@@ -5,7 +5,7 @@
 </script>
 
 <svelte:head>
-  <title>Digitimatic | Media Placement</title>
+  <title>Media Placement - Digitimatic</title>
   <meta name="description" content="Digitimatic is part of the 1% of PR agencies that can guarantee results.">
 </svelte:head>
 
