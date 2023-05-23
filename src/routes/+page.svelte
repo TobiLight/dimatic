@@ -1,19 +1,3 @@
-<script lang="ts">
-	import Image1 from '$lib/images/1/Screen-Shot1.webp';
-	import Image5 from '$lib/images/1/ScreenShot5.png';
-	import Image6 from '$lib/images/1/ScreenShot6.png';
-	import Image7 from '$lib/images/1/ScreenShot7.png';
-	import Image8 from '$lib/images/1/ScreenShot8.png';
-	import Image9 from '$lib/images/1/ScreenShot9.png';
-	import Image10 from '$lib/images/1/ScreenShot10.png';
-	import Image11 from '$lib/images/1/ScreenShot11.png';
-	import Image12 from '$lib/images/1/ScreenShot12.png';
-	import Dailymailw from '$lib/images/DailyMail.webm';
-	import Dailymailm from '$lib/images/DailyMail.mp4';
-	import Testimw from '$lib/images/Testim.webm';
-	import Testimm from '$lib/images/Testim.mp4';
-</script>
-
 <div class="pt-8">
 	<div class="sect-1 grid gap-y-8">
 		<p class="text-2xl text-center font-semibold">
@@ -114,8 +98,8 @@
 			<p>100% of my business is based on results, and results only.</p>
 		</div>
 		<video width="100%" height="400" autoplay loop muted playsinline class="mx-auto">
-			<source src={Dailymailw} type="video/webm" />
-			<source src={Dailymailm} type="video/mp4" />
+			<source src="https://res.cloudinary.com/ddt59lbmx/video/upload/v1684802045/DailyMail_djxilj.webm" type="video/webm" />
+			<source src="https://res.cloudinary.com/ddt59lbmx/video/upload/v1684802045/DailyMail_kgzaow.mp4" type="video/mp4" />
 			Your browser does not support the video tag.
 		</video>
 	</div>
@@ -144,8 +128,8 @@
 
 	<div class="sect-6 grid gap-y-8 mt-14">
 		<video width="100%" height="400" autoplay loop muted playsinline class="mx-auto">
-			<source src={Testimw} type="video/webm" />
-			<source src={Testimm} type="video/mp4" />
+			<source src="https://res.cloudinary.com/ddt59lbmx/video/upload/v1684802262/Testim_jteu1p.webm" type="video/webm" />
+			<source src="https://res.cloudinary.com/ddt59lbmx/video/upload/v1684802262/Testim_yqqcpn.mp4" type="video/mp4" />
 			Your browser does not support the video tag.
 		</video>
 		<a href="/" class="book-call">BOOK 7MIN INTRO CALL</a>
