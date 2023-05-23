@@ -29,14 +29,7 @@
 		</p>
 	</div>
 
-	<div class="grid gap-y-8">
-		<div class="sect-2 flex items-center justify-center mt-12">
-			<!-- <video class="bg-gray-600" width="auto" controls>
-				<source src="https://archive.org/download/ElephantsDream/ed_hd.avi" type="video/avi" />
-				<track kind="captions" src="" srclang="en" label="English" />
-				Your browser does not support the video tag.
-			</video> -->
-		</div>
+	<div class="grid mt-12">
 		<a href="/" class="book-call">BOOK 7MIN INTRO CALL</a>
 	</div>
 
