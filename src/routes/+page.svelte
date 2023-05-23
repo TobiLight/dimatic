@@ -14,7 +14,7 @@
 	</div>
 
 	<div class="grid mt-12">
-		<a href="/" class="book-call">BOOK 7MIN INTRO CALL</a>
+		<a href="/form/media-placement-form/" class="book-call">BOOK 7MIN INTRO CALL</a>
 	</div>
 
 	<div class="offer grid gap-y-8 mx-auto">
@@ -132,7 +132,7 @@
 			<source src="https://res.cloudinary.com/ddt59lbmx/video/upload/v1684802262/Testim_yqqcpn.mp4" type="video/mp4" />
 			Your browser does not support the video tag.
 		</video>
-		<a href="/" class="book-call">BOOK 7MIN INTRO CALL</a>
+		<a href="/form/media-placement-form/" class="book-call">BOOK 7MIN INTRO CALL</a>
 	</div>
 </div>
 
