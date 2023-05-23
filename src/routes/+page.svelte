@@ -151,8 +151,6 @@
 	}
 
 	.sect-2 {
-		/* background-image: url($lib/images/hero-bg.webp); */
-		background-position: top;
 		min-height: 450px;
 		width: 100%;
 	}
@@ -214,8 +212,6 @@
 	@media screen and (max-width: 640px) {
 		.sect-2 {
 			min-height: 300px;
-			background-position: center;
-			/* background-size: cover; */
 		}
 
 		video {
