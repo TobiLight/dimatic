@@ -16,7 +16,7 @@
 	<div class="grid mt-12 gap-y-8">
 		<video width="100%" height="400" loop muted playsinline controls class="mx-auto lg:w-[60%]">
 			<source
-				src="https://player.vimeo.com/video/707648781"
+				src="https://res.cloudinary.com/ddt59lbmx/video/upload/v1684922678/Agency_VSL_3min_nvlduy.mp4"
 				type="video/mp4"
 			/>
 			<source
