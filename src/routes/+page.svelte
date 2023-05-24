@@ -166,11 +166,11 @@
 		</div>
 		<video width="100%" height="400" autoplay loop muted playsinline class="mx-auto lg:w-[60%]">
 			<source
-				src="https://res.cloudinary.com/ddt59lbmx/video/upload/v1684802045/DailyMail_djxilj.webm"
+				src="https://digitimatic.com/wp-content/uploads/2023/05/DailyMail.webm"
 				type="video/webm"
 			/>
 			<source
-				src="https://res.cloudinary.com/ddt59lbmx/video/upload/v1684802045/DailyMail_kgzaow.mp4"
+				src="https://digitimatic.com/wp-content/uploads/2023/05/DailyMail.mp4"
 				type="video/mp4"
 			/>
 			Your browser does not support the video tag.
@@ -202,11 +202,11 @@
 	<div class="sect-6 grid gap-y-8 mt-14">
 		<video width="100%" height="400" autoplay loop muted playsinline class="mx-auto">
 			<source
-				src="https://res.cloudinary.com/ddt59lbmx/video/upload/v1684802262/Testim_jteu1p.webm"
+				src="https://digitimatic.com/wp-content/uploads/2023/05/Testim.webm"
 				type="video/webm"
 			/>
 			<source
-				src="https://res.cloudinary.com/ddt59lbmx/video/upload/v1684802262/Testim_yqqcpn.mp4"
+				src="https://digitimatic.com/wp-content/uploads/2023/05/DailyMail.mp4"
 				type="video/mp4"
 			/>
 			Your browser does not support the video tag.
