@@ -13,8 +13,21 @@
 		</p>
 	</div>
 
-	<div class="grid mt-12">
-		<a href="https://digitimatic.com/form/media-placement-form/" class="book-call">BOOK 7MIN INTRO CALL</a>
+	<div class="grid mt-12 gap-y-8">
+		<video width="100%" height="400" loop muted playsinline controls class="mx-auto lg:w-[60%]">
+			<source
+				src="https://player.vimeo.com/video/707648781"
+				type="video/mp4"
+			/>
+			<source
+				src="https://player.vimeo.com/video/707648781"
+				type="video/webm"
+			/>
+			Your browser does not support the video tag.
+		</video>
+		<a href="https://digitimatic.com/form/media-placement-form/" class="book-call"
+			>BOOK 7MIN INTRO CALL</a
+		>
 	</div>
 
 	<div class="offer grid gap-y-8 mx-auto">
@@ -45,36 +58,90 @@
 	</div>
 
 	<div class="sect-3 grid sm:grid-cols-2 items-center gap-x-10 gap-y-20 mt-20">
-		<img width="100%" height="100%" src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684612660/digitimatic/ScreenShot1_zw1r3d.png" alt="Digitimatic 1" class="w-auto mx-auto" />
 		<img
 			width="100%"
 			height="100%"
-			src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611863/digitimatic/ScreenShot2_eb0cvn.png"
+			src="https://digitimatic.com/wp-content/uploads/2023/05/ScreenShot1.png"
+			alt="Digitimatic 1"
+			class="w-auto mx-auto"
+		/>
+		<img
+			width="100%"
+			height="100%"
+			src="https://digitimatic.com/wp-content/uploads/2023/05/ScreenShot2.png"
 			alt="Digitimatic 2"
 			class="w-auto h-auto mx-auto"
 		/>
 		<img
 			width="100%"
 			height="100%"
-			src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611863/digitimatic/ScreenShot7_nhvy4n.png"
+			src="https://digitimatic.com/wp-content/uploads/2023/05/ScreenShot3.png"
 			alt="Digitimatic 3"
 			class="w-auto h-auto mx-auto"
 		/>
 		<img
 			width="100%"
 			height="100%"
-			src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611864/digitimatic/ScreenShot4_paajfk.png"
+			src="https://digitimatic.com/wp-content/uploads/2023/05/ScreenShot4.png"
 			alt="Digitimatic 4"
 			class="w-auto h-auto mx-auto"
 		/>
-		<img width="100%" height="100%" src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611867/digitimatic/ScreenShot5_bxs6fv.png" alt="Digitimatic 5" class="w-auto h-auto mx-auto" />
-		<img width="100%" height="100%" src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611863/digitimatic/ScreenShot6_jllvvb.png" alt="Digitimatic 6" class="w-auto h-auto mx-auto" />
-		<img width="100%" height="100%" src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611863/digitimatic/ScreenShot7_nhvy4n.png" alt="Digitimatic 7" class="w-auto h-auto mx-auto" />
-		<img width="100%" height="100%" src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611866/digitimatic/ScreenShot8_ihlvsb.png" alt="Digitimatic 8" class="w-auto h-auto mx-auto" />
-		<img width="100%" height="100%" src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611865/digitimatic/ScreenShot9_nuq4dh.png" alt="Digitimatic 9" class="w-auto h-auto mx-auto" />
-		<img width="100%" height="100%" src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611871/digitimatic/ScreenShot10_hsrbui.png" alt="Digitimatic 10" class="w-auto h-auto mx-auto" />
-		<img width="100%" height="100%" src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611866/digitimatic/ScreenShot11_fprb5x.png" alt="Digitimatic 11" class="w-auto h-auto mx-auto" />
-		<img width="100%" height="100%" src="https://res.cloudinary.com/ddt59lbmx/image/upload/v1684611866/digitimatic/ScreenShot12_kaimpb.png" alt="Digitimatic 12" class="w-auto h-auto mx-auto" />
+		<img
+			width="100%"
+			height="100%"
+			src="https://digitimatic.com/wp-content/uploads/2023/05/ScreenShot5.png"
+			alt="Digitimatic 5"
+			class="w-auto h-auto mx-auto"
+		/>
+		<img
+			width="100%"
+			height="100%"
+			src="https://digitimatic.com/wp-content/uploads/2023/05/ScreenShot6.png"
+			alt="Digitimatic 6"
+			class="w-auto h-auto mx-auto"
+		/>
+		<img
+			width="100%"
+			height="100%"
+			src="https://digitimatic.com/wp-content/uploads/2023/05/ScreenShot7.png"
+			alt="Digitimatic 7"
+			class="w-auto h-auto mx-auto"
+		/>
+		<img
+			width="100%"
+			height="100%"
+			src="https://digitimatic.com/wp-content/uploads/2023/05/ScreenShot8.png"
+			alt="Digitimatic 8"
+			class="w-auto h-auto mx-auto"
+		/>
+		<img
+			width="100%"
+			height="100%"
+			src="https://digitimatic.com/wp-content/uploads/2023/05/ScreenShot9.png"
+			alt="Digitimatic 9"
+			class="w-auto h-auto mx-auto"
+		/>
+		<img
+			width="100%"
+			height="100%"
+			src="https://digitimatic.com/wp-content/uploads/2023/05/ScreenShot10.png"
+			alt="Digitimatic 10"
+			class="w-auto h-auto mx-auto"
+		/>
+		<img
+			width="100%"
+			height="100%"
+			src="https://digitimatic.com/wp-content/uploads/2023/05/ScreenShot11.png"
+			alt="Digitimatic 11"
+			class="w-auto h-auto mx-auto"
+		/>
+		<img
+			width="100%"
+			height="100%"
+			src="https://digitimatic.com/wp-content/uploads/2023/05/ScreenShot12.png"
+			alt="Digitimatic 12"
+			class="w-auto h-auto mx-auto"
+		/>
 	</div>
 
 	<div class="sect-4 py-14 grid gap-y-10">
@@ -98,8 +165,14 @@
 			<p>100% of my business is based on results, and results only.</p>
 		</div>
 		<video width="100%" height="400" autoplay loop muted playsinline class="mx-auto lg:w-[60%]">
-			<source src="https://res.cloudinary.com/ddt59lbmx/video/upload/v1684802045/DailyMail_djxilj.webm" type="video/webm" />
-			<source src="https://res.cloudinary.com/ddt59lbmx/video/upload/v1684802045/DailyMail_kgzaow.mp4" type="video/mp4" />
+			<source
+				src="https://res.cloudinary.com/ddt59lbmx/video/upload/v1684802045/DailyMail_djxilj.webm"
+				type="video/webm"
+			/>
+			<source
+				src="https://res.cloudinary.com/ddt59lbmx/video/upload/v1684802045/DailyMail_kgzaow.mp4"
+				type="video/mp4"
+			/>
 			Your browser does not support the video tag.
 		</video>
 	</div>
@@ -128,11 +201,19 @@
 
 	<div class="sect-6 grid gap-y-8 mt-14">
 		<video width="100%" height="400" autoplay loop muted playsinline class="mx-auto">
-			<source src="https://res.cloudinary.com/ddt59lbmx/video/upload/v1684802262/Testim_jteu1p.webm" type="video/webm" />
-			<source src="https://res.cloudinary.com/ddt59lbmx/video/upload/v1684802262/Testim_yqqcpn.mp4" type="video/mp4" />
+			<source
+				src="https://res.cloudinary.com/ddt59lbmx/video/upload/v1684802262/Testim_jteu1p.webm"
+				type="video/webm"
+			/>
+			<source
+				src="https://res.cloudinary.com/ddt59lbmx/video/upload/v1684802262/Testim_yqqcpn.mp4"
+				type="video/mp4"
+			/>
 			Your browser does not support the video tag.
 		</video>
-		<a href="https://digitimatic.com/form/media-placement-form/" class="book-call">BOOK 7MIN INTRO CALL</a>
+		<a href="https://digitimatic.com/form/media-placement-form/" class="book-call"
+			>BOOK 7MIN INTRO CALL</a
+		>
 	</div>
 </div>
 
