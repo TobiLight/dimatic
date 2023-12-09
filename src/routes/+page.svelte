@@ -223,7 +223,7 @@ let show = false;
 </div>
 {:else}
 <p> Something went wrong!</p>
-{#/if}
+{/if}
 
 <style lang="postcss">
 	h1 {
