@@ -1,3 +1,8 @@
+<script>
+let show = false;
+</script>
+
+{#if show}
 <div class="pt-8">
 	<div class="sect-1 grid gap-y-8">
 		<p class="text-2xl text-center font-semibold">
@@ -216,6 +221,9 @@
 		>
 	</div>
 </div>
+{:else}
+<p> Something went wrong!</p>
+{#/if}
 
 <style lang="postcss">
 	h1 {
