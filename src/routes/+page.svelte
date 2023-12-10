@@ -1,5 +1,5 @@
 <script>
-let show = false;
+let show = true;
 </script>
 
 {#if show}
